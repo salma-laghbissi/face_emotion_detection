@@ -7,8 +7,8 @@ L'interface est structurée autour d'une fenêtre principale divisée en plusieu
 * *Boutons d'action* : Des boutons placés en haut de l'interface pour contrôler les fonctions de détection.
 
 Boutons d'Action :
-● Démarrer Détection : Ce bouton lance la capture vidéo et active la détection des émotions en temps réel.
-● Arrêter Détection : Il arrête la détection et la capture vidéo.
-● Détecter : Ce bouton permet de déclencher manuellement la détection des émotions pour une image sélectionnée ou une image capturée en temps réel.
-● Changer l'Expression : Ce bouton permet de sélectionner une image de l'historique et de changer ses traits faciaux en fonction d'une émotion choisie.
-● À propos : Ce bouton ouvre une petite fenêtre pour afficher des détails sur l'image sélectionnée dans l'historique, y compris la date, l'heure, et l'émotion détectée.
+* *Démarrer Détection* : Ce bouton lance la capture vidéo et active la détection des émotions en temps réel.
+* *Arrêter Détection* : Il arrête la détection et la capture vidéo.
+* *Détecter* : Ce bouton permet de déclencher manuellement la détection des émotions pour une image sélectionnée ou une image capturée en temps réel.
+* *Changer l'Expression* : Ce bouton permet de sélectionner une image de l'historique et de changer ses traits faciaux en fonction d'une émotion choisie.
+* *À propos* : Ce bouton ouvre une petite fenêtre pour afficher des détails sur l'image sélectionnée dans l'historique, y compris la date, l'heure, et l'émotion détectée.
